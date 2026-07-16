@@ -1,7 +1,7 @@
 # www — 多人格协作智能体
 
 [![Version](https://img.shields.io/badge/version-10.6.9-blue.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 [![AI Engine](https://img.shields.io/badge/engine-Ollama-orange.svg)](https://ollama.ai)
 [![Personas](https://img.shields.io/badge/personas-8-ff69b4.svg)]()
@@ -235,7 +235,7 @@ v10.6.9 | 2026-07-12 | 全面修复 + 深度架构优化（13 项）
 
 ## 许可证
 
-本项目基于 [MIT License](LICENSE) 开源。
+本项目基于 [CC BY-NC 4.0](LICENSE) 许可——**禁止商业使用**，允许自由分享和改编但须署名。
 
 ---
 
